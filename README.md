@@ -1,7 +1,7 @@
 # slide-scanner
 Imaging processing and deconvolution on slide scanner images
 
-## Instlal packages
+## Install packages
 Install openslide python
 sudo apt-get install openslide-tools
 conda create --no-default-packages --name slide_py3 python=3.9
